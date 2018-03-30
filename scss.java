@@ -1,4 +1,4 @@
-package java.sass
+package java.sass;
 
 public class scss{
 }
